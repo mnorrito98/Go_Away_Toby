@@ -1,0 +1,305 @@
+/*FIND THE PENGUINS MIKE NORRITO
+
+**/
+
+body
+{
+	background-color: lightsteelblue;
+
+}
+
+
+div#gameholder
+{
+	
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+
+	
+}
+
+div#title
+{
+	background-image: url("media/TobeyGame.png");
+	width: 600px;
+	height: 150px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+input#button
+{
+	display: block;
+	clear: both;
+	margin-right: auto;
+	margin-left: auto;
+	width: 200px;
+	height: 30px;
+}
+div.frame
+{
+	margin: 0 auto;
+}
+
+/*----------------------- Mound 1 ---------------------------------
+
+
+This is the natural styling for the <div> */
+
+div.mound1
+{
+	background-image: url("media/mound_1.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/*this psedo class is applied on mouse hover*/
+div.mound1:hover
+{
+	background-image: url("media/mound_1_hover.png");
+	cursor: pointer;
+}
+
+/* this Pseudo class is applied when clicked a mound*/
+div.mound1:active
+{
+	background-image: url("media/Office_1.png");
+}
+
+/*--------------------END OF MOUND 1--------------------*/
+
+
+/*----------------------- Mound 2 ---------------------------------
+
+
+This is the natural styling for the <div> */
+
+div.mound2
+{
+	background-image: url("media/mound_1.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/*this psedo class is applied on mouse hover*/
+div.mound2:hover
+{
+	background-image: url("media/mound_1_hover.png");
+	cursor: pointer;
+}
+
+/* this Pseudo class is applied when clicked a mound*/
+div.mound2:active
+{
+	background-image: url("media/Office_2.png");
+}
+
+/*--------------------END OF MOUND 2--------------------*/
+
+
+/*----------------------- Mound 33 ---------------------------------
+
+
+This is the natural styling for the <div> */
+
+div.mound3
+{
+	background-image: url("media/mound_1.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/*this psedo class is applied on mouse hover*/
+div.mound3:hover
+{
+	background-image: url("media/mound_1_hover.png");
+	cursor: pointer;
+}
+
+/* this Pseudo class is applied when clicked a mound*/
+div.mound3:active
+{
+	background-image: url("media/Office_3.png");
+}
+
+/*--------------------END OF MOUND 3--------------------*/
+
+/*----------------------- Mound 4 ---------------------------------
+
+
+This is the natural styling for the <div> */
+
+div.mound4
+{
+	background-image: url("media/mound_1.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/*this psedo class is applied on mouse hover*/
+div.mound4:hover
+{
+	background-image: url("media/mound_1_hover.png");
+	cursor: pointer;
+}
+
+/* this Pseudo class is applied when clicked a mound*/
+div.mound4:active
+{
+	background-image: url("media/Office_4.png");
+}
+
+/*--------------------END OF MOUND 4--------------------*/
+
+
+/*----------------------- Mound 5 ---------------------------------
+
+
+This is the natural styling for the <div> */
+
+div.mound5
+{
+	background-image: url("media/mound_1.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/*this psedo class is applied on mouse hover*/
+div.mound5:hover
+{
+	background-image: url("media/mound_1_hover.png");
+	cursor: pointer;
+}
+
+/* this Pseudo class is applied when clicked a mound*/
+div.mound5:active
+{
+	background-image: url("media/Office_5.png");
+}
+
+/*--------------------END OF MOUND 5--------------------*/
+
+/*----------------------- Mound 6 ---------------------------------
+
+
+This is the natural styling for the <div> */
+
+div.mound6
+{
+	background-image: url("media/mound_1.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/*this psedo class is applied on mouse hover*/
+div.mound6:hover
+{
+	background-image: url("media/mound_1_hover.png");
+	cursor: pointer;
+}
+
+/* this Pseudo class is applied when clicked a mound*/
+div.mound6:active
+{
+	background-image: url("media/Office_6.png");
+}
+
+/*--------------------END OF MOUND 6--------------------*/
+
+/*----------------------- Mound 7 ---------------------------------
+
+
+This is the natural styling for the <div> */
+
+div.mound7
+{
+	background-image: url("media/mound_1.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/*this psedo class is applied on mouse hover*/
+div.mound7:hover
+{
+	background-image: url("media/mound_1_hover.png");
+	cursor: pointer;
+}
+
+/* this Pseudo class is applied when clicked a mound*/
+div.mound7:active
+{
+	background-image: url("media/Office_7.png");
+}
+
+/*--------------------END OF MOUND 7--------------------*/
+
+/*----------------------- Mound 8 ---------------------------------
+
+
+This is the natural styling for the <div> */
+
+div.mound8
+{
+	background-image: url("media/mound_1.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/*this psedo class is applied on mouse hover*/
+div.mound8:hover
+{
+	background-image: url("media/mound_1_hover.png");
+	cursor: pointer;
+}
+
+/* this Pseudo class is applied when clicked a mound*/
+div.mound8:active
+{
+	background-image: url("media/Office_8.png");
+}
+
+/*--------------------END OF MOUND 8--------------------*/
+
+/*----------------------- Mound 9 ---------------------------------
+
+
+This is the natural styling for the <div> */
+
+div.mound9
+{
+	background-image: url("media/mound_1.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/*this psedo class is applied on mouse hover*/
+div.mound9:hover
+{
+	background-image: url("media/mound_1_hover.png");
+	cursor: pointer;
+}
+
+/* this Pseudo class is applied when clicked a mound*/
+div.mound9:active
+{
+	background-image: url("media/Office_9.png");
+}
+
+/*--------------------END OF MOUND 9--------------------*/
+
+/* ---------------------YETI---------------------------*/
+
+#yeti:active
+{
+	background-image: url("media/Toby.png");
+}
